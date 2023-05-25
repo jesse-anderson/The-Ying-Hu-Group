@@ -1,5 +1,5 @@
 # The-Ying-Hu-Group
-![Ying Hu Lab Banner Image](Images/Lab-Banner.JPEG)
+![Ying Hu Lab Banner Image](Images/Lab-Banner.jpeg)
 ### Welcome to the Immune Imaging Group at UIC!    
 #### Our research develops single-molecule and superresolution bioanalytical techniques to examine interactions of biomolecules in health and disease, with a particular focus on immunity.
 # Papers
